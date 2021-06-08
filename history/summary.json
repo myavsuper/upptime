@@ -22,7 +22,7 @@
     "url": "$VOD_SERVER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "video-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "97.77%",
     "uptimeWeek": "99.68%",
