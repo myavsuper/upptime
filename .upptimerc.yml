@@ -29,7 +29,7 @@ status-website:
   favicon: https://myavsuper.com/favicon.ico
 
 i18n:
-  footer:
+  footer: ""
 
 workflowSchedule:
   uptime: "*/1 * * * *"
