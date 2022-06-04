@@ -4,7 +4,7 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-   - name: Website Load Balancers
+  - name: Website Load Balancers
     url: $WEB_SERVER
   - name: Video CDN
     url: $VOD_SERVER
