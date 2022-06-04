@@ -28,6 +28,9 @@ status-website:
       href: https://myavsuper.com
   favicon: https://myavsuper.com/favicon.ico
 
+i18n:
+  footer:
+
 workflowSchedule:
   uptime: "*/1 * * * *"
 
