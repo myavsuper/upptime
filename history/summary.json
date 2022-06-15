@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "website-load-balancers",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 276,
-    "timeDay": 240,
-    "timeWeek": 228,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 281,
+    "timeDay": 368,
+    "timeWeek": 216,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2022-06-04": 62
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 331,
-    "timeWeek": 428,
-    "timeMonth": 428,
-    "timeYear": 428,
+    "time": 435,
+    "timeDay": 566,
+    "timeWeek": 446,
+    "timeMonth": 435,
+    "timeYear": 435,
     "dailyMinutesDown": {}
   }
 ]
