@@ -26,7 +26,7 @@
     "url": "$VOD_SERVER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "video-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,8 @@
     "timeWeek": 402,
     "timeMonth": 410,
     "timeYear": 424,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-05": 0
+    }
   }
 ]
