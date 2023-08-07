@@ -4,19 +4,19 @@
     "url": "$WEB_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website-load-balancers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "77.52%",
-    "uptimeWeek": "76.87%",
-    "uptimeMonth": "92.61%",
-    "uptimeYear": "99.38%",
-    "time": 8338,
-    "timeDay": 15473,
+    "uptimeDay": "77.48%",
+    "uptimeWeek": "76.86%",
+    "uptimeMonth": "92.65%",
+    "uptimeYear": "99.39%",
+    "time": 8345,
+    "timeDay": 15476,
     "timeWeek": 15486,
-    "timeMonth": 14943,
-    "timeYear": 9110,
+    "timeMonth": 14944,
+    "timeYear": 9118,
     "dailyMinutesDown": {
-      "2023-08-07": 130,
+      "2023-08-07": 131,
       "2023-08-06": 316,
       "2023-08-05": 334,
       "2023-08-04": 312,
@@ -26,7 +26,7 @@
       "2023-07-31": 256,
       "2023-07-30": 399,
       "2023-07-29": 287,
-      "2023-07-28": 168
+      "2023-07-28": 151
     }
   },
   {
@@ -46,7 +46,7 @@
     "timeMonth": 0,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2023-08-07": 272,
+      "2023-08-07": 283,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
       "2023-08-04": 1440,
