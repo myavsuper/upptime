@@ -1,7 +1,7 @@
 url: $VOD_SERVER
-status: up
-code: 200
-responseTime: 382
-lastUpdated: 2024-02-29T17:25:07.315Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-02-29T17:36:06.503Z
 startTime: 2022-06-04T06:01:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
