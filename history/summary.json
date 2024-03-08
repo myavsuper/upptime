@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
     "time": 10920,
-    "timeDay": 228,
-    "timeWeek": 198,
-    "timeMonth": 244,
+    "timeDay": 242,
+    "timeWeek": 195,
+    "timeMonth": 239,
     "timeYear": 12077,
     "dailyMinutesDown": {
       "2023-09-20": 146,
@@ -36,24 +36,24 @@
     "slug": "video-cdn",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "96.62%",
-    "uptimeWeek": "54.75%",
-    "uptimeMonth": "88.60%",
-    "uptimeYear": "99.05%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "56.85%",
+    "uptimeMonth": "88.52%",
+    "uptimeYear": "99.04%",
     "time": 374,
-    "timeDay": 2151,
-    "timeWeek": 313,
-    "timeMonth": 309,
-    "timeYear": 344,
+    "timeDay": 2632,
+    "timeWeek": 315,
+    "timeMonth": 307,
+    "timeYear": 341,
     "dailyMinutesDown": {
-      "2024-03-07": 30,
+      "2024-03-07": 19,
       "2024-03-06": 20,
       "2024-03-05": 938,
       "2024-03-04": 888,
       "2024-03-03": 835,
       "2024-03-02": 854,
       "2024-03-01": 794,
-      "2024-02-29": 631
+      "2024-02-29": 677
     }
   }
 ]
