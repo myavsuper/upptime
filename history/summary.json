@@ -34,11 +34,11 @@
     "url": "$VOD_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "video-cdn",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "88.58%",
+    "uptimeMonth": "88.65%",
     "uptimeYear": "99.05%",
     "time": 366,
     "timeDay": 267,
@@ -46,6 +46,7 @@
     "timeMonth": 303,
     "timeYear": 331,
     "dailyMinutesDown": {
+      "2024-03-24": 0,
       "2024-03-20": 21,
       "2024-03-07": 19,
       "2024-03-06": 20,
@@ -54,7 +55,7 @@
       "2024-03-03": 835,
       "2024-03-02": 854,
       "2024-03-01": 794,
-      "2024-02-29": 631
+      "2024-02-29": 600
     }
   }
 ]
