@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 296,
-    "timeWeek": 160,
-    "timeMonth": 172,
+    "timeDay": 44,
+    "timeWeek": 152,
+    "timeMonth": 171,
     "timeYear": 173,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "video-cdn",
     "status": "down",
-    "uptime": "57.89%",
+    "uptime": "57.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-09": 127,
+      "2025-08-10": 149,
+      "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
@@ -397,8 +398,7 @@
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
-      "2024-08-11": 1440,
-      "2024-08-10": 1440
+      "2024-08-11": 1440
     }
   }
 ]
