@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "video-cdn",
     "status": "down",
-    "uptime": "47.04%",
+    "uptime": "47.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-04": 76,
+      "2026-05-04": 235,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
