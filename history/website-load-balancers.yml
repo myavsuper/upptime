@@ -1,7 +1,7 @@
 url: $WEB_SERVER
-status: up
-code: 200
-responseTime: 19617
-lastUpdated: 2026-05-06T23:56:43.309Z
+status: down
+code: 522
+responseTime: 19340
+lastUpdated: 2026-05-07T01:19:24.530Z
 startTime: 2022-06-04T06:25:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
